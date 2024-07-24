@@ -1,4 +1,3 @@
-Sure, here's the modified README content formatted for direct pasting into your `README.md` file:
 
 ---
 
@@ -19,8 +18,15 @@ The project connects to a database, allowing users to query in natural language 
 
 ![MultiAgentArchitecture](https://github.com/user-attachments/assets/6b1572aa-9463-46b6-9226-eca97d751f3a)
 
-Below is the link for the paper: 
+Url link for the paper: 
 [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://doi.org/10.48550/arXiv.2303.17760)
 
 
+## Acknowledgments
+I would like to express my gratitude to:
+- **Groq** for providing open-source APIs for accessing LLMs with function-calling abilities.
+- **Meta LLaMA 3** for their open-source LLMs.
+- **LangSmith** For providing tools that facilitate easy debugging and testing of LLM Application using LangGraph.
 
+
+---
